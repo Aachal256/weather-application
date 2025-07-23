@@ -14,7 +14,6 @@ This React app shows weather information based on your search.
 
 ## Features
 - Responsive design
-- Dark mode support
 - Live weather data fetching
 
 ## Live Demo
