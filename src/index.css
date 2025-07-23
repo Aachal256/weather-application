@@ -131,17 +131,8 @@ main {
     padding: 12px 16px;
   }
 }
-
-/* DARK MODE STYLES (optional toggle ready) */
-body.dark {
-  background-color: #000;
-}
-
-body.dark .search-bar {
-  background-color: rgba(255, 255, 255, 0.1);
-  color: #fff;
-}
-
-body.dark .search-bar:focus {
-  background-color: rgba(255, 255, 255, 0.3);
+@media (min-width: 1600px) {
+  main {
+    max-width: 1100px;
+  }
 }
