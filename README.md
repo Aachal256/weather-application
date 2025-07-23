@@ -8,6 +8,24 @@ In the project directory, you can run:
 
 ### `npm start`
 
+# Weather Application
+
+This React app shows weather information based on your search.
+
+## Features
+- Responsive design
+- Dark mode support
+- Live weather data fetching
+
+## Live Demo
+You can check out the live deployed site here:  
+👉 [weather-application-aachal.netlify.app](https://weather-application-aachal.netlify.app)
+
+## How to run locally
+- Clone the repo
+- Run `npm install`
+- Run `npm start`
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
